@@ -1,0 +1,8 @@
+Contract Name:
+Bitway
+Compiler Version
+v0.4.20-nightly.2018.1.6+commit.2548228b
+Optimization Enabled:
+No with 200 runs
+Other Settings:
+default evmVersion

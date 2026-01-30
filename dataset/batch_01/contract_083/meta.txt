@@ -1,0 +1,8 @@
+Contract Name:
+EthToVMRExchange
+Compiler Version
+v0.5.10+commit.5a6ea5b1
+Optimization Enabled:
+Yes with 200 runs
+Other Settings:
+default evmVersion, None license

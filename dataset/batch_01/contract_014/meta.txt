@@ -1,0 +1,8 @@
+Contract Name:
+EtherToken
+Compiler Version
+v0.4.11+commit.68ef5810
+Optimization Enabled:
+No with 200 runs
+Other Settings:
+default evmVersion

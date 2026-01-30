@@ -1,0 +1,8 @@
+Contract Name:
+EthToErc20Swap
+Compiler Version
+v0.5.9+commit.e560f70d
+Optimization Enabled:
+No with 200 runs
+Other Settings:
+default evmVersion

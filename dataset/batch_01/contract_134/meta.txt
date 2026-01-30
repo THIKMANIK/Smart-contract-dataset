@@ -1,0 +1,8 @@
+Contract Name:
+G5
+Compiler Version
+v0.4.15+commit.bbb8e64f
+Optimization Enabled:
+Yes with 200 runs
+Other Settings:
+default evmVersion

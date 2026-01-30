@@ -1,0 +1,8 @@
+Contract Name:
+VINContract
+Compiler Version
+v0.4.13+commit.fb4cb1a
+Optimization Enabled:
+Yes with 200 runs
+Other Settings:
+default evmVersion

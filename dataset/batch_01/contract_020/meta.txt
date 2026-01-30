@@ -1,0 +1,8 @@
+Contract Name:
+ETToken
+Compiler Version
+v0.4.21+commit.dfe3193c
+Optimization Enabled:
+Yes with 200 runs
+Other Settings:
+default evmVersion

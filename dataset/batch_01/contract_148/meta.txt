@@ -1,0 +1,8 @@
+Contract Name:
+ICO
+Compiler Version
+v0.4.20+commit.3155dd80
+Optimization Enabled:
+No with 200 runs
+Other Settings:
+default evmVersion

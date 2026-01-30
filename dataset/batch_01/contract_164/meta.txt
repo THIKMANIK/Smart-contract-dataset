@@ -1,0 +1,8 @@
+Contract Name:
+CPAYToken
+Compiler Version
+v0.4.16+commit.d7661dd9
+Optimization Enabled:
+No with 200 runs
+Other Settings:
+default evmVersion

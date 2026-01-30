@@ -1,0 +1,8 @@
+Contract Name:
+PayStation
+Compiler Version
+v0.5.11+commit.c082d0b4
+Optimization Enabled:
+Yes with 200 runs
+Other Settings:
+default evmVersion, None license

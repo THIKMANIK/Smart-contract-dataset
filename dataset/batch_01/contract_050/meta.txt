@@ -1,0 +1,8 @@
+Contract Name:
+EtherCenter
+Compiler Version
+v0.4.26+commit.4563c3fc
+Optimization Enabled:
+No with 200 runs
+Other Settings:
+default evmVersion

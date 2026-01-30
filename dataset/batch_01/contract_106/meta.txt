@@ -1,0 +1,8 @@
+Contract Name:
+Coin
+Compiler Version
+v0.5.11+commit.c082d0b4
+Optimization Enabled:
+No with 200 runs
+Other Settings:
+default evmVersion, None license

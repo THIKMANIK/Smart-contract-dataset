@@ -1,0 +1,8 @@
+Contract Name:
+ArbitrageETHStaking
+Compiler Version
+v0.4.24+commit.e67f0147
+Optimization Enabled:
+Yes with 200 runs
+Other Settings:
+default evmVersion

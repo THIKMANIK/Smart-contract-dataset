@@ -1,0 +1,8 @@
+Contract Name:
+Exchange
+Compiler Version
+v0.4.22+commit.4cb486ee
+Optimization Enabled:
+Yes with 200 runs
+Other Settings:
+default evmVersion

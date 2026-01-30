@@ -1,0 +1,8 @@
+Contract Name:
+ETHERCExchange
+Compiler Version
+v0.4.20+commit.3155dd80
+Optimization Enabled:
+Yes with 200 runs
+Other Settings:
+default evmVersion

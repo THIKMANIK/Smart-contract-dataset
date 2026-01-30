@@ -1,0 +1,8 @@
+Contract Name:
+RampInstantEthPool
+Compiler Version
+v0.5.10+commit.5a6ea5b1
+Optimization Enabled:
+Yes with 420 runs
+Other Settings:
+default evmVersion, MIT license

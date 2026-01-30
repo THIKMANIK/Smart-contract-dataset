@@ -1,0 +1,8 @@
+Contract Name:
+JincorTokenICO
+Compiler Version
+v0.4.18+commit.9cf6e910
+Optimization Enabled:
+No with 200 runs
+Other Settings:
+default evmVersion

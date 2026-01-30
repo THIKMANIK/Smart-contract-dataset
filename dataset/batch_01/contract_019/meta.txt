@@ -1,0 +1,8 @@
+Contract Name:
+EthexHouse
+Compiler Version
+v0.5.1+commit.c8a2cb62
+Optimization Enabled:
+Yes with 200 runs
+Other Settings:
+default evmVersion

@@ -1,0 +1,8 @@
+Contract Name:
+PembiCoinICO
+Compiler Version
+v0.4.14+commit.c2215d46
+Optimization Enabled:
+No with 200 runs
+Other Settings:
+default evmVersion

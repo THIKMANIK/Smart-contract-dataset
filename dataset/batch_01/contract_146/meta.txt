@@ -1,0 +1,8 @@
+Contract Name:
+Bank
+Compiler Version
+v0.4.24+commit.e67f0147
+Optimization Enabled:
+No with 200 runs
+Other Settings:
+default evmVersion

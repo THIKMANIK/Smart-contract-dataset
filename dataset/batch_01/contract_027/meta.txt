@@ -1,0 +1,8 @@
+Contract Name:
+ClubToken
+Compiler Version
+v0.4.24+commit.e67f0147
+Optimization Enabled:
+Yes with 10000 runs
+Other Settings:
+default evmVersion, None license

@@ -1,0 +1,8 @@
+Contract Name:
+EscrowWallet
+Compiler Version
+v0.4.25+commit.59dbf8f1
+Optimization Enabled:
+No with 200 runs
+Other Settings:
+default evmVersion

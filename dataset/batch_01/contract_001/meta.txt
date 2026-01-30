@@ -1,0 +1,8 @@
+Contract Name:
+WETH9
+Compiler Version
+v0.4.19+commit.c4cbbb05
+Optimization Enabled:
+No with 200 runs
+Other Settings:
+default evmVersion

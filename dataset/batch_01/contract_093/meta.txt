@@ -1,0 +1,8 @@
+Contract Name:
+Presale
+Compiler Version
+v0.4.25+commit.59dbf8f1
+Optimization Enabled:
+No with 0 runs
+Other Settings:
+default evmVersion

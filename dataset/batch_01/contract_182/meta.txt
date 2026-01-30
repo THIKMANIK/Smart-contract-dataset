@@ -1,0 +1,8 @@
+Contract Name:
+VuePayTokenSale
+Compiler Version
+v0.4.17+commit.bdeb9e52
+Optimization Enabled:
+Yes with 200 runs
+Other Settings:
+default evmVersion

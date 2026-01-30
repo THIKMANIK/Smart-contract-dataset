@@ -1,0 +1,8 @@
+Contract Name:
+BitcoinPriceBetM
+Compiler Version
+v0.4.25+commit.59dbf8f1
+Optimization Enabled:
+Yes with 200 runs
+Other Settings:
+default evmVersion

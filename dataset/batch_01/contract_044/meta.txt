@@ -1,0 +1,8 @@
+Contract Name:
+HegicETHPool
+Compiler Version
+v0.6.6+commit.6c089d02
+Optimization Enabled:
+Yes with 200 runs
+Other Settings:
+default evmVersion, GNU GPLv3 license

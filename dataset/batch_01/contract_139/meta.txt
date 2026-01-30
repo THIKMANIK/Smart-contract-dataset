@@ -1,0 +1,8 @@
+Contract Name:
+GuildBank
+Compiler Version
+v0.5.16+commit.9c3226ce
+Optimization Enabled:
+Yes with 200 runs
+Other Settings:
+default evmVersion, MIT license

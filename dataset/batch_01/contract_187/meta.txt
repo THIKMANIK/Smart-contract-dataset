@@ -1,0 +1,8 @@
+Contract Name:
+FlashMintableETH
+Compiler Version
+v0.5.16+commit.9c3226ce
+Optimization Enabled:
+No with 200 runs
+Other Settings:
+default evmVersion, MIT license

@@ -1,0 +1,8 @@
+Contract Name:
+Proxy
+Compiler Version
+v0.5.14+commit.1f1aaa4
+Optimization Enabled:
+No with 200 runs
+Other Settings:
+default evmVersion, MIT license

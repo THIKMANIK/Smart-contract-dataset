@@ -1,0 +1,8 @@
+Contract Name:
+DinngoProxy
+Compiler Version
+v0.5.12+commit.7709ece9
+Optimization Enabled:
+Yes with 200 runs
+Other Settings:
+default evmVersion, MIT license

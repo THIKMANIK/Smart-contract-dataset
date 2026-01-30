@@ -1,0 +1,8 @@
+Contract Name:
+CrowSale
+Compiler Version
+v0.4.23+commit.124ca40d
+Optimization Enabled:
+No with 200 runs
+Other Settings:
+default evmVersion

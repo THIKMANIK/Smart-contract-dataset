@@ -1,0 +1,8 @@
+Contract Name:
+EWEUR
+Compiler Version
+v0.5.2+commit.1df8f40c
+Optimization Enabled:
+Yes with 200 runs
+Other Settings:
+default evmVersion, MIT license
