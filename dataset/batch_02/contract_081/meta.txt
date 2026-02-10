@@ -1,0 +1,13 @@
+Contract Name:
+SpaceICOToken
+
+Compiler Version:
+v0.4.15+commit.bbb8e64f
+
+Optimization Enabled:
+1 with 200 runs
+
+EVM Version:
+Default
+License:
+

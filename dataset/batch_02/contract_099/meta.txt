@@ -1,0 +1,13 @@
+Contract Name:
+Bank
+
+Compiler Version:
+v0.5.6+commit.b259423e
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+

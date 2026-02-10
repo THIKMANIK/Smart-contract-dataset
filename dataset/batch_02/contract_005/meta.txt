@@ -1,0 +1,13 @@
+Contract Name:
+GratitudeDispenser
+
+Compiler Version:
+v0.6.2+commit.bacdbe57
+
+Optimization Enabled:
+1 with 200 runs
+
+EVM Version:
+Default
+License:
+MIT

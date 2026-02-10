@@ -1,0 +1,13 @@
+Contract Name:
+MultiWallet
+
+Compiler Version:
+v0.6.3+commit.8dda9521
+
+Optimization Enabled:
+1 with 200 runs
+
+EVM Version:
+Default
+License:
+MIT

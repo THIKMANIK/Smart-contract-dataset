@@ -1,0 +1,13 @@
+Contract Name:
+DarknodeRewardVault
+
+Compiler Version:
+v0.4.24+commit.e67f0147
+
+Optimization Enabled:
+1 with 200 runs
+
+EVM Version:
+Default
+License:
+

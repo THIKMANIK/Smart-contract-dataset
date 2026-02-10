@@ -1,0 +1,13 @@
+Contract Name:
+RESToken
+
+Compiler Version:
+v0.4.20-nightly.2018.1.29+commit.a668b9de
+
+Optimization Enabled:
+1 with 200 runs
+
+EVM Version:
+Default
+License:
+

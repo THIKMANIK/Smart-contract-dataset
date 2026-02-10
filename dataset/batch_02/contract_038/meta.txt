@@ -1,0 +1,13 @@
+Contract Name:
+DreamBit
+
+Compiler Version:
+v0.4.22-nightly.2018.3.12+commit.c6e9dd13
+
+Optimization Enabled:
+1 with 200 runs
+
+EVM Version:
+Default
+License:
+

@@ -1,0 +1,13 @@
+Contract Name:
+TokenICOGAT
+
+Compiler Version:
+v0.4.14-nightly.2017.7.31+commit.22326189
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+

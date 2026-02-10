@@ -1,0 +1,13 @@
+Contract Name:
+DividendCryptoFundToken
+
+Compiler Version:
+v0.4.20-nightly.2018.1.6+commit.2548228b
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+

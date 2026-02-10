@@ -1,0 +1,13 @@
+Contract Name:
+AdminUpgradeabilityProxy
+
+Compiler Version:
+v0.5.12+commit.7709ece9
+
+Optimization Enabled:
+1 with 200 runs
+
+EVM Version:
+Default
+License:
+

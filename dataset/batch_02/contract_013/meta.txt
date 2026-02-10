@@ -1,0 +1,13 @@
+Contract Name:
+Sale
+
+Compiler Version:
+v0.4.14+commit.c2215d46
+
+Optimization Enabled:
+1 with 200 runs
+
+EVM Version:
+Default
+License:
+

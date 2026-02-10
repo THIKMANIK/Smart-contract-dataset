@@ -1,0 +1,13 @@
+Contract Name:
+HubrisOne
+
+Compiler Version:
+v0.5.9+commit.e560f70d
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+None

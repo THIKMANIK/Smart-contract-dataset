@@ -1,0 +1,13 @@
+Contract Name:
+TeikhosBounty
+
+Compiler Version:
+v0.4.21-nightly.2018.2.23+commit.cae6cc2c
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+
