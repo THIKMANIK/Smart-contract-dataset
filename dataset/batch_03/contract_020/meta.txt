@@ -1,0 +1,13 @@
+Contract Name:
+AppProxyUpgradeable
+
+Compiler Version:
+v0.4.24+commit.e67f0147
+
+Optimization Enabled:
+1 with 10000 runs
+
+EVM Version:
+Default
+License:
+GNU GPLv3

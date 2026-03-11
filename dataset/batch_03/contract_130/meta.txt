@@ -1,0 +1,13 @@
+Contract Name:
+DEVWEBVUA
+
+Compiler Version:
+v0.4.17+commit.bdeb9e52
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+None

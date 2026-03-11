@@ -1,0 +1,13 @@
+Contract Name:
+ICO
+
+Compiler Version:
+v0.4.20+commit.3155dd80
+
+Optimization Enabled:
+1 with 200 runs
+
+EVM Version:
+Default
+License:
+

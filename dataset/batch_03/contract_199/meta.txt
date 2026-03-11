@@ -1,0 +1,13 @@
+Contract Name:
+MLM_FOMO_BANK
+
+Compiler Version:
+v0.4.25+commit.59dbf8f1
+
+Optimization Enabled:
+1 with 200 runs
+
+EVM Version:
+Default
+License:
+

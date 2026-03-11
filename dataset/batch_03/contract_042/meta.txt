@@ -1,0 +1,13 @@
+Contract Name:
+YUPERToken
+
+Compiler Version:
+v0.5.3+commit.10d17f24
+
+Optimization Enabled:
+1 with 200 runs
+
+EVM Version:
+Default
+License:
+

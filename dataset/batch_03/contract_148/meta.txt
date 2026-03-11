@@ -1,0 +1,13 @@
+Contract Name:
+BWS_ICO
+
+Compiler Version:
+v0.5.1+commit.c8a2cb62
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+

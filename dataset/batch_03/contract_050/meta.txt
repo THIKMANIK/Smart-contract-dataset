@@ -1,0 +1,13 @@
+Contract Name:
+CAOsale
+
+Compiler Version:
+v0.4.22-nightly.2018.3.27+commit.af262281
+
+Optimization Enabled:
+1 with 200 runs
+
+EVM Version:
+Default
+License:
+

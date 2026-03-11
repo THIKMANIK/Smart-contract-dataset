@@ -1,0 +1,13 @@
+Contract Name:
+BitpayerDEX
+
+Compiler Version:
+v0.5.11+commit.c082d0b4
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+None

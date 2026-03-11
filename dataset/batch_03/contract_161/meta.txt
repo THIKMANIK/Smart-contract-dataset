@@ -1,0 +1,13 @@
+Contract Name:
+RobotCoinSeller
+
+Compiler Version:
+v0.4.20-nightly.2018.1.24+commit.b177352a
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+

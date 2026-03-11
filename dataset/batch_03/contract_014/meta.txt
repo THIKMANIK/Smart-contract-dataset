@@ -1,0 +1,13 @@
+Contract Name:
+SimpleAuction
+
+Compiler Version:
+v0.4.15-nightly.2017.8.2+commit.4166ce1
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+

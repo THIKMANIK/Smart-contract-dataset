@@ -1,0 +1,13 @@
+Contract Name:
+Gladiethers
+
+Compiler Version:
+v0.4.20+commit.3155dd80
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+

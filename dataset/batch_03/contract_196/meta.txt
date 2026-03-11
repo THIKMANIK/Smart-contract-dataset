@@ -1,0 +1,13 @@
+Contract Name:
+StarrDEX
+
+Compiler Version:
+v0.4.26+commit.4563c3fc
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+None

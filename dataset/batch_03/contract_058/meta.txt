@@ -1,0 +1,13 @@
+Contract Name:
+MyAdvancedToken
+
+Compiler Version:
+v0.4.20-nightly.2018.1.19+commit.eba46a65
+
+Optimization Enabled:
+1 with 200 runs
+
+EVM Version:
+Default
+License:
+

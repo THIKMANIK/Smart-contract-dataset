@@ -1,0 +1,13 @@
+Contract Name:
+ETHToken
+
+Compiler Version:
+v0.4.18+commit.9cf6e910
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+

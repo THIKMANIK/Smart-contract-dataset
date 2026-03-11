@@ -1,0 +1,13 @@
+Contract Name:
+PreDAICO
+
+Compiler Version:
+v0.5.4+commit.9549d8ff
+
+Optimization Enabled:
+1 with 200 runs
+
+EVM Version:
+Default
+License:
+

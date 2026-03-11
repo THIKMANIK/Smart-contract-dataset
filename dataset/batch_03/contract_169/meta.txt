@@ -1,0 +1,13 @@
+Contract Name:
+META
+
+Compiler Version:
+v0.4.21+commit.dfe3193c
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+

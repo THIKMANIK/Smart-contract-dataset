@@ -1,0 +1,13 @@
+Contract Name:
+CarTaxiBonus
+
+Compiler Version:
+v0.4.17-nightly.2017.9.21+commit.725b4fc2
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+

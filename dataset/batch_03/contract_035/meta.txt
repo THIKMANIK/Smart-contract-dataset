@@ -1,0 +1,13 @@
+Contract Name:
+JaxBox
+
+Compiler Version:
+v0.4.17+commit.bdeb9e52
+
+Optimization Enabled:
+1 with 200 runs
+
+EVM Version:
+Default
+License:
+

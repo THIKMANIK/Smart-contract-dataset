@@ -1,0 +1,13 @@
+Contract Name:
+Crowdsale
+
+Compiler Version:
+v0.4.14+commit.c2215d46
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+

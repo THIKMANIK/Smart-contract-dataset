@@ -1,0 +1,13 @@
+Contract Name:
+EtherHash
+
+Compiler Version:
+v0.6.4+commit.1dca32f3
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+None
