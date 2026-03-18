@@ -1,0 +1,13 @@
+Contract Name:
+TokenERC20
+
+Compiler Version:
+v0.4.23-nightly.2018.4.17+commit.5499db01
+
+Optimization Enabled:
+1 with 200 runs
+
+EVM Version:
+Default
+License:
+

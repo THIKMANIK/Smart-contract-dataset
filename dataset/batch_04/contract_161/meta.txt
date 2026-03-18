@@ -1,0 +1,13 @@
+Contract Name:
+GameMarketToken
+
+Compiler Version:
+v0.4.19+commit.c4cbbb05
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+

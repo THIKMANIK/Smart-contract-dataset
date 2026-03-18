@@ -1,0 +1,13 @@
+Contract Name:
+AlienFarmer
+
+Compiler Version:
+v0.4.24-nightly.2018.5.14+commit.7a669b39
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+

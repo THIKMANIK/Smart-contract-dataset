@@ -1,0 +1,13 @@
+Contract Name:
+MetaDollar
+
+Compiler Version:
+v0.4.23+commit.124ca40d
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+

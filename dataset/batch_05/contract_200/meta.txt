@@ -1,0 +1,13 @@
+Contract Name:
+NFTCollection
+
+Compiler Version:
+v0.8.20+commit.a1b79de6
+
+Optimization Enabled:
+1 with 1337000 runs
+
+EVM Version:
+Default
+License:
+

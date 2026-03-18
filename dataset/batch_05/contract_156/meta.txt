@@ -1,0 +1,13 @@
+Contract Name:
+EasyCash
+
+Compiler Version:
+v0.4.23-nightly.2018.4.18+commit.85687a37
+
+Optimization Enabled:
+1 with 200 runs
+
+EVM Version:
+Default
+License:
+

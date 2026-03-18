@@ -1,0 +1,13 @@
+Contract Name:
+FidgetSpinner
+
+Compiler Version:
+v0.4.13+commit.fb4cb1a
+
+Optimization Enabled:
+1 with 0 runs
+
+EVM Version:
+Default
+License:
+

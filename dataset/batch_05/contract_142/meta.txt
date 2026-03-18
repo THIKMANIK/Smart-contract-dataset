@@ -1,0 +1,13 @@
+Contract Name:
+URA
+
+Compiler Version:
+v0.5.2+commit.1df8f40c
+
+Optimization Enabled:
+1 with 200 runs
+
+EVM Version:
+Default
+License:
+

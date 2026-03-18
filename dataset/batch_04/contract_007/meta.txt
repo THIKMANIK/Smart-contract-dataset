@@ -1,0 +1,13 @@
+Contract Name:
+Game
+
+Compiler Version:
+v0.5.16+commit.9c3226ce
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+MIT

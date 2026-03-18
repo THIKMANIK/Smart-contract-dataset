@@ -1,0 +1,13 @@
+Contract Name:
+AdoiToken
+
+Compiler Version:
+v0.5.7+commit.6da8b019
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+

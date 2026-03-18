@@ -1,0 +1,13 @@
+Contract Name:
+VitalSkin
+
+Compiler Version:
+v0.4.22-nightly.2018.4.5+commit.c6adad93
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+

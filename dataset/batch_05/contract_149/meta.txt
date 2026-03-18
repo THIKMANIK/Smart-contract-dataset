@@ -1,0 +1,13 @@
+Contract Name:
+SVCH
+
+Compiler Version:
+v0.4.25+commit.59dbf8f1
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+

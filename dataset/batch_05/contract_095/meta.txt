@@ -1,0 +1,13 @@
+Contract Name:
+CryptoScams
+
+Compiler Version:
+v0.4.20-nightly.2018.1.26+commit.bbad48bb
+
+Optimization Enabled:
+1 with 200 runs
+
+EVM Version:
+Default
+License:
+

@@ -1,0 +1,13 @@
+Contract Name:
+PreICO
+
+Compiler Version:
+v0.4.15+commit.bbb8e64f
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+

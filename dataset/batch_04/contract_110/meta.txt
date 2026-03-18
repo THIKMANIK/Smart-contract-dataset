@@ -1,0 +1,13 @@
+Contract Name:
+Sopow
+
+Compiler Version:
+v0.5.0+commit.1d4f565a
+
+Optimization Enabled:
+0 with 200 runs
+
+EVM Version:
+Default
+License:
+

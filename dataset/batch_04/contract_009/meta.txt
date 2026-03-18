@@ -1,0 +1,13 @@
+Contract Name:
+FujintoToken
+
+Compiler Version:
+v0.4.12+commit.194ff033
+
+Optimization Enabled:
+1 with 200 runs
+
+EVM Version:
+Default
+License:
+
